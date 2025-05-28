@@ -1,5 +1,8 @@
 # Durable Python Function App using Model V2 Python
 
+## Master branch tested on Windows -> Working
+## docker branch tested on Windows -> Working
+
 - Using Durable Function in the very basic form to provide a demonstration on Python with Durable Functions behavior
 
 ```python
